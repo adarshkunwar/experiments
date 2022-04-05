@@ -1,0 +1,19 @@
+.hi{
+    background-image: url(resources/background2.jpg);
+    height: fit-content;
+}
+
+.navbar-custom
+{
+    background-color:rgb(14, 160, 140);
+}
+
+.navbar-custom .navbar-text
+{
+    color: white;
+}
+
+.navbar-custom .navbar-text :active
+{
+    color: green;
+}
